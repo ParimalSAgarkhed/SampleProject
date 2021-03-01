@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Configuration>
+  <job>
+    <folderId>4</folderId>
+    <templateId>7</templateId>
+    <testPolicyId>8</testPolicyId>
+    <applicationId>1</applicationId>
+    <designatedAgentServerId></designatedAgentServerId>
+  </job>
+</Configuration>
