@@ -1,5 +1,5 @@
 # Copyright (c) 1993-2009 Microsoft Corp.
-# aaa bbb 111 222  111 aaa 1
+# aaa bbb 111 222  111 aaa 1 2
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
 # This file contains the mappings of IP addresses to host names. Each
