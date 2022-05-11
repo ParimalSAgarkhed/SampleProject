@@ -1,5 +1,8 @@
 # Copyright (c) 1993-2009 Microsoft Corp.
 #  1
+1st change
+2nd change
+3rd change
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
 # This file contains the mappings of IP addresses to host names. Each
