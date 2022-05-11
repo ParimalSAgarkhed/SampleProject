@@ -5,6 +5,7 @@
 3 4
 
 commit1
+commit2
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
 # This file contains the mappings of IP addresses to host names. Each
