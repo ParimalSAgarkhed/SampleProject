@@ -8,6 +8,7 @@ commit1
 commit2
 commit3
 
+a
 
 COMMIT 3
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
