@@ -10,6 +10,7 @@ commit3
 
 a
 b
+c
 
 COMMIT 3
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
