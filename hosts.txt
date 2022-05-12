@@ -1,14 +1,6 @@
 # Copyright (c) 1993-2009 Microsoft Corp.
 #  1
-1 2
-2 3
-3 4
 
-
-
-a
-b
-c
 
 COMMIT 3
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
