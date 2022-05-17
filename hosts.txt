@@ -3,6 +3,7 @@
 a 
 a 
 COMMIT 3 22
+commit1 master
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
 # This file contains the mappings of IP addresses to host names. Each
